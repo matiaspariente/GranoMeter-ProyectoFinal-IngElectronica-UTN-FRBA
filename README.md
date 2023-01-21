@@ -14,5 +14,4 @@
 ### - OPENCV
 ### - GPHOTO
 
-## Desarrollo Registrado como propuiedad intelectual en el SVT de CONICET patente compartida entre
-UBA‑UTN‑CONICET
+## Desarrollo Registrado como propuiedad intelectual en el SVT de CONICET patente compartida entre UBA‑UTN‑CONICET
